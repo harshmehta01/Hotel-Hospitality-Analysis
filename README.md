@@ -14,7 +14,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 •	Create a relevant insight that are not provided in the metric list/mock-up dashboard.
 
 ## Data Model
-![Data Model]![Data Model](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/c1968c32-30a7-443d-bd13-9f4db16bd6f7)
+![Data Model](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/c1968c32-30a7-443d-bd13-9f4db16bd6f7)
 
 ## Dashboard
 ![Dashboard Image](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/50334b3f-47a8-472f-af97-4873c8d75cbe)
