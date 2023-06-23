@@ -10,8 +10,11 @@ Their revenue management team had decided to hire a 3rd party service provider t
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
 •	Create the metrics according to the metrics list. 
+
 •	Create a dashboard according to the mock-up provided by stakeholders.
+
 •	Create a relevant insight that are not provided in the metric list/mock-up dashboard.
+
 
 ## Data Model
 ![Data Model](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/c1968c32-30a7-443d-bd13-9f4db16bd6f7)
@@ -21,19 +24,31 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Key Learnings from the Project:
 •	Data-driven decision-making is crucial for regaining market share and boosting revenue.
+
 •	Third-party expertise brings fresh perspectives and insights to drive business growth.
+
 •	Effective visualization and dashboards provide real-time visibility and aid decision-making.
+
 •	Metrics and performance tracking enable continuous improvement and revenue optimization.
+
 •	Data insights positively impact revenue growth and guest satisfaction.
+
 •	Adaptation and continuous improvement are essential for remaining competitive.
+
 
 ## Some Important insights from the dashboard:
 •	Mumbai generates the highest revenue (661 million) followed by Bangalore, Hyderabad and Delhi.
+
 •	AtliQ Exotica performs better compared to all 7 types of properties with 316 million revenue, rating of 3.62, occupancy rate of 57.02% and cancellation rate of 24.39%.
+
 •	AtliQ Blu has the highest occupancy rate of 61.92%.
+
 •	Elite type rooms have the most booking and as well higher cancellation rate.
+
 •	Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
+
 •	Week 26 recorded the lowest revenue among all i.e., 114 million.
+
 
 ## Want to create dashboard like this?
 #### [Related Projects](https://codebasics.io/resources)
