@@ -1,4 +1,4 @@
-# Hotel-Hospital-Analysis
+# Hotel-Hospitality-Analysis
 In this project, I designed and developed the Revenue Insights Dashboard for Hotel Hospitality using Power BI. This dashboard offers a comprehensive picture of important revenue variables, enabling data-driven choices that can lead to exceptional success.
 
 ## Problem Statement
@@ -41,7 +41,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## How to run?
 ### Clone the repository
 ```bash
-  https://github.com/harshmehta01/Hotel-Hospital-Analysis.git
+  https://github.com/harshmehta01/Hotel-Hospitality-Analysis.git
 ```
 ### ... OR Create a new repository on the command line
 ```bash
@@ -49,12 +49,12 @@ You are a data analyst who has been provided with sample data and a mock-up dash
   git add README.md
   git commit -m "first commit"
   git branch -M main
-  git remote add origin https://github.com/harshmehta01/Hotel-Hospital-Analysis.git
+  git remote add origin https://github.com/harshmehta01/Hotel-Hospitality-Analysis.git
   git push -u origin main
 ```
 ### ... OR Push an existing repository from the command line
 ```bash
-  git remote add origin https://github.com/harshmehta01/Hotel-Hospital-Analysis.git
+  git remote add origin https://github.com/harshmehta01/Hotel-Hospitality-Analysis.git
   git branch -M main
   git push -u origin main
 ```
