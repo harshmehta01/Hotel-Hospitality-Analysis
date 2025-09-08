@@ -17,10 +17,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/c1968c32-30a7-443d-bd13-9f4db16bd6f7)
+![Data Model](Images/DataModel.png)
 
 ## Dashboard
-![Dashboard Image](https://github.com/harshmehta01/Hotel-Hospital-Analysis/assets/97782632/50334b3f-47a8-472f-af97-4873c8d75cbe)
+![Dashboard Image](Images/DashboardImage.png)
 
 ## Key Learnings from the Project:
 •	Data-driven decision-making is crucial for regaining market share and boosting revenue.
